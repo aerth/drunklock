@@ -1,0 +1,3 @@
+load perl
+script load drunklock.pl
+drunk
